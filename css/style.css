@@ -37,11 +37,11 @@ html {
     display: none;
 }
 
-.item-image:hover .main-image {
+.item-container:hover .main-image {
     display: none;
 }
 
-.item-image:hover .secundary-image {
+.item-container:hover .secundary-image {
     display: inline-block;
 }
 
