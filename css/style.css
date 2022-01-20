@@ -33,6 +33,18 @@ html {
     width: 100%;
 }
 
+.item-image .secundary-image {
+    display: none;
+}
+
+.item-image:hover .main-image {
+    display: none;
+}
+
+.item-image:hover .secundary-image {
+    display: inline-block;
+}
+
 .item-image .add-to-favorites {
     width: 2rem;
     height: 2rem;
@@ -42,6 +54,7 @@ html {
     top: .5rem;
     border: none;
     font-size: 1.2rem;
+    cursor: pointer;
 }
 
 .item-image .item-labels {
