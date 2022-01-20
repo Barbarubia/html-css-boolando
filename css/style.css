@@ -9,7 +9,7 @@ html {
 }
 
 .main-container {
-    max-width: 60%;
+    max-width: 70%;
     margin: 0 auto;
 }
 
@@ -65,7 +65,7 @@ html {
 }
 
 .item-image .item-labels .sustainability {
-    background: green;
+    background: #01875b;
 }
 
 .item-details {
